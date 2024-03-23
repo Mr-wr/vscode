@@ -11,4 +11,4 @@ react
 >https://vscode.dev/profile/github/0a4b64b3357e2217d55bc4d51b3398a4
 
 python
->https://vscode.dev/profile/github/0affc28607f38f6f2e44e8430de81239
+>https://vscode.dev/profile/github/d98d188ffd445f1f86fefb5ae5e393a1
