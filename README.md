@@ -2,13 +2,13 @@
 vscode config
 # 配置文件
 js+html
->https://vscode.dev/profile/github/a4c2623622b577563a1143032b2da4a4
+>https://vscode.dev/profile/github/0c6a00eaac225f97e2fd7e6075778739
 
 vue3
->https://vscode.dev/profile/github/f786fd13b593b80568ca2fecab91d7a4
+>https://vscode.dev/profile/github/96e21ca5bd364450eea742f0d6231dce
 
 react
->https://vscode.dev/profile/github/0a4b64b3357e2217d55bc4d51b3398a4
+>https://vscode.dev/profile/github/ff83179d905119f0d0537cf0c82f7bab
 
 python
->https://vscode.dev/profile/github/798f42bfad43f200f09fd8bd8dbc399f
+>https://vscode.dev/profile/github/3ed83dcd75a020d15e56ab099c05478b
