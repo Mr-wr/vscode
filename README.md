@@ -7,7 +7,7 @@ js+html
 vue3
 >https://vscode.dev/profile/github/96e21ca5bd364450eea742f0d6231dce
 vue3删除了部分插件
->https://vscode.dev/profile/github/e11501ce3d08fd1af1fd3ba95f6698f0
+>https://vscode.dev/profile/github/16620ae19a3d5559fcf94114a83841b0
 
 react
 >https://vscode.dev/profile/github/ff83179d905119f0d0537cf0c82f7bab
