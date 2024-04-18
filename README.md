@@ -12,3 +12,6 @@ react
 
 python
 >https://vscode.dev/profile/github/3ed83dcd75a020d15e56ab099c05478b
+
+>87个全部禁用但是显示
+>https://vscode.dev/profile/github/7bede26e14c7b6f3023405b996e00d48
